@@ -2,14 +2,24 @@
 ##### 1. Создайте программу которая генерирует случайное число в заданном диапазоне.( используйте random.randint )
 
 ### Example
- In: `python my_file.py 32 100`
-Output: 35
 In: `python my_file.py 32 100`
+
+Output: 35
+
+In: `python my_file.py 32 100`
+
 Output: 95
+
 ---
+
 ##### 2. Измените программу из задания 1. При вводе одного аргумента должно выводится сообщение об ошибке. 
+
 ### Example
+
 In: `python my_file.py 42` 
+
 Output: Ошибка!! ожидается два аргумента
+
 In: `python my_file.py 42 47` 
+
 Output: 43
